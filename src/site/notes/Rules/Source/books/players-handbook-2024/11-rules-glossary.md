@@ -606,7 +606,7 @@ Some magic items require a creature to form a bond—called Attunement—with th
 
 > [!embed-condition]- Blinded
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -860,7 +860,7 @@ If you have Truesight, your vision is enhanced within a specified range. Within 
 
 > [!embed-status]- Bloodied
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1323,7 +1323,7 @@ A character sheet is a paper or digital record that you use to track your charac
 
 > [!embed-condition]- Charmed
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1572,7 +1572,7 @@ A Climb Speed can be used in place of [[Rules/Source/variant-rules/speed-xphb\|S
 
 > [!embed-status]- Concentration
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2472,7 +2472,7 @@ If the creature returns to life, the revival effect determines the creature's cu
 
 > [!embed-condition]- Deafened
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3375,7 +3375,7 @@ A creature is your enemy if it fights against you in combat, actively works to h
 
 > [!embed-condition]- Exhaustion
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3710,7 +3710,7 @@ A Friendly creature views you favorably. You have [[Rules/Source/variant-rules/a
 
 > [!embed-condition]- Frightened
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3919,7 +3919,7 @@ While you have the Unconscious condition, you experience the following effects.
 
 > [!embed-condition]- Grappled
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4910,7 +4910,7 @@ If an improvised weapon resembles a Simple or Martial weapon, the DM may say it 
 
 > [!embed-condition]- Incapacitated
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5405,7 +5405,7 @@ Sometimes a DM might have combatants use their Initiative scores instead of roll
 
 > [!embed-condition]- Invisible
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6391,7 +6391,7 @@ Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[Rules/Source/
 
 > [!embed-condition]- Paralyzed
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6642,7 +6642,7 @@ If a rule says you can use something a certain number of times per day, that mea
 
 > [!embed-condition]- Petrified
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6871,7 +6871,7 @@ A player character is a character controlled by a player (https://coveryourtrack
 
 > [!embed-condition]- Poisoned
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -7120,7 +7120,7 @@ If you have proficiency with something, you can add your Proficiency Bonus to an
 
 > [!embed-condition]- Prone
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -7613,7 +7613,7 @@ If you have Resistance to a [[Rules/Source/variant-rules/damage-types-xphb\|dama
 
 > [!embed-condition]- Restrained
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -8739,7 +8739,7 @@ Whispers don't disturb sleep, unless a sleeper's passive Wisdom ([[Rules/Source/
 
 > [!embed-condition]- Stunned
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -8970,7 +8970,7 @@ A creature can hold its breath for a number of minutes equal to 1 plus its Const
 
 > [!embed-status]- Surprised
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -9433,7 +9433,7 @@ The target must succeed on a Strength or Dexterity [[Rules/Source/variant-rules/
 
 > [!embed-condition]- Unconscious
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/conditions/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 

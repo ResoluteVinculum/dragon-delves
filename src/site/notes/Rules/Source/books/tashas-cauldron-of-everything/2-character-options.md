@@ -71,7 +71,7 @@ Artificers in the City of Sigil share discoveries from throughout the multiverse
 
 > [!embed-classtype]- Artificer
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/artificer-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -503,7 +503,7 @@ You have developed a mystical connection to your magic items, which you can draw
 
 > [!embed-subclass]- Alchemist
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/artificer-alchemist-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -762,7 +762,7 @@ Any creature that takes lightning damage from your Lightning Launcher glimmers w
 
 > [!embed-subclass]- Artillerist
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/artificer-artillerist-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -872,7 +872,7 @@ Starting at 15th level, you're a master at forming well-defended emplacements us
 
 > [!embed-subclass]- Battle Smith
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/artificer-battle-smith-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1147,7 +1147,7 @@ Circle of Spores
 
 > [!embed-subclass]- Circle of Stars
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/druid-xphb-circle-of-the-stars-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1282,7 +1282,7 @@ When you choose a fighting style, the following styles are added to your list of
 
 > [!embed-optfeature]- Blind Fighting
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/blind-fighting-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1304,7 +1304,7 @@ You have [[Rules/Source/senses#Blindsight\|Blindsight]] with a range of 10 feet.
 
 > [!embed-optfeature]- Interception
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/interception-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1348,7 +1348,7 @@ You gain one superiority die, which is a `d6` (this die is added to any superior
 
 > [!embed-optfeature]- Thrown Weapon Fighting
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/thrown-weapon-fighting-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1370,7 +1370,7 @@ When you hit with a ranged attack roll using a weapon that has the [[Rules/Sourc
 
 > [!embed-optfeature]- Unarmed Fighting
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/unarmed-fighting-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1814,7 +1814,7 @@ At 3rd level, a monk gains the Monastic Tradition feature, which offers you the 
 
 > [!embed-subclass]- Way of Mercy
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/monk-xphb-warrior-of-mercy-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1956,7 +1956,7 @@ You learn two Cleric cantrips of your choice. [[Rules/Source/spells/guidance-xph
 
 > [!embed-optfeature]- Blind Fighting
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/blind-fighting-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1978,7 +1978,7 @@ You have [[Rules/Source/senses#Blindsight\|Blindsight]] with a range of 10 feet.
 
 > [!embed-optfeature]- Interception
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/interception-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2016,7 +2016,7 @@ At 3rd level, a paladin gains the Sacred Oath feature, which offers you the choi
 
 > [!embed-subclass]- Oath of Glory
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/paladin-xphb-oath-of-glory-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2159,7 +2159,7 @@ When you choose a fighting style, the following styles are added to your list of
 
 > [!embed-optfeature]- Blind Fighting
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/blind-fighting-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2181,7 +2181,7 @@ You have [[Rules/Source/senses#Blindsight\|Blindsight]] with a range of 10 feet.
 
 > [!embed-optfeature]- Druidic Warrior
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/druidic-warrior-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2203,7 +2203,7 @@ You learn two Druid cantrips of your choice. [[Rules/Source/spells/guidance-xphb
 
 > [!embed-optfeature]- Thrown Weapon Fighting
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/thrown-weapon-fighting-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2386,7 +2386,7 @@ Phantom
 
 > [!embed-subclass]- Soulknife
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/rogue-xphb-soulknife-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -2673,7 +2673,7 @@ Once you use this feature, you can't do so again until you finish a [[Rules/Sour
 
 > [!embed-subclass]- Clockwork Soul
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/classes/sorcerer-xphb-clockwork-sorcery-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3108,7 +3108,7 @@ New feats are presented here in alphabetical order for groups that use them.
 
 > [!embed-feat]- Artificer Initiate
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/artificer-initiate-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3132,7 +3132,7 @@ You've learned some of an artificer's inventiveness:
 
 > [!embed-feat]- Chef
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/chef-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3162,7 +3162,7 @@ You gain the following benefits.
 
 > [!embed-feat]- Crusher
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/crusher-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3190,7 +3190,7 @@ You gain the following benefits.
 
 > [!embed-feat]- Eldritch Adept
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/eldritch-adept-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3240,7 +3240,7 @@ Your exposure to the Feywild's magic grants you the following benefits.
 
 > [!embed-feat]- Fighting Initiate
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/fighting-initiate-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3289,7 +3289,7 @@ You have a quick hand and keen eye when employing firearms, granting you the fol
 
 > [!embed-feat]- Metamagic Adept
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/metamagic-adept-tce/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3314,7 +3314,7 @@ You've learned how to exert your will on your spells to alter how they function:
 
 > [!embed-feat]- Piercer
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/piercer-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3342,7 +3342,7 @@ You gain the following benefits.
 
 > [!embed-feat]- Poisoner
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/poisoner-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3370,7 +3370,7 @@ You gain the following benefits.
 
 > [!embed-feat]- Shadow Touched
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/shadow-touched-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3396,7 +3396,7 @@ Your exposure to the Shadowfell's magic grants you the following benefits.
 
 > [!embed-feat]- Skill Expert
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/skill-expert-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3424,7 +3424,7 @@ You gain the following benefits.
 
 > [!embed-feat]- Slasher
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/slasher-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3452,7 +3452,7 @@ You gain the following benefits.
 
 > [!embed-feat]- Telekinetic
 > 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/feats/telekinetic-xphb/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 

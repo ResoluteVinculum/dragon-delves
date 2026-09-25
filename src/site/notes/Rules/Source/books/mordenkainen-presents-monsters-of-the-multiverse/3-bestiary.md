@@ -745,7 +745,7 @@ coastal, urban
 
 > [!embed-monster]- Green Abishai
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fiend/green-abishai-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1665,7 +1665,7 @@ When an archdruid uses their Change Shape action, you may choose the creature th
 
 > [!embed-monster]- Archdruid
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/archdruid-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -1893,7 +1893,7 @@ Part of what makes armanites so fearsome is the number of weapons they have at t
 
 > [!embed-monster]- Armanite
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fiend/armanite-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3111,7 +3111,7 @@ In combat, a bheur hag also strives to inspire horror. When near a recently slai
 
 > [!embed-monster]- Bheur Hag
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fey/bheur-hag-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -3360,7 +3360,7 @@ A bodak retains vague impressions of its past life. It seeks out its former alli
 
 > [!embed-monster]- Bodak
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/undead/bodak-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4204,7 +4204,7 @@ underdark
 
 > [!embed-monster]- Ox
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/beast/ox-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -4916,7 +4916,7 @@ underdark
 
 > [!embed-monster]- Clockwork Bronze Scout
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/construct/clockwork-bronze-scout-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -5796,7 +5796,7 @@ forest, swamp, underdark, urban
 
 > [!embed-monster]- Darkling Elder
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fey/darkling-elder-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6171,7 +6171,7 @@ urban
 
 > [!embed-monster]- Deathlock Wight
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/undead/deathlock-wight-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -6565,7 +6565,7 @@ Derro tell their own stories of flight and survival in the Underdark, in which m
 
 > [!embed-monster]- Derro
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/aberration/derro-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -7144,7 +7144,7 @@ coastal, swamp
 
 > [!embed-monster]- Hadrosaurus
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/beast/hadrosaurus-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -7201,7 +7201,7 @@ grassland, swamp
 
 > [!embed-monster]- Quetzalcoatlus
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/beast/quetzalcoatlus-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -7455,7 +7455,7 @@ coastal, underwater
 
 > [!embed-monster]- Dolphin Delighter
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fey/dolphin-delighter-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -7549,7 +7549,7 @@ Although draegloths plays an important part in the plans of Lolth's cult, a drae
 
 > [!embed-monster]- Draegloth
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fiend/draegloth-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -7971,7 +7971,7 @@ underdark
 
 > [!embed-monster]- Drow Inquisitor
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/drow-inquisitor-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -8486,7 +8486,7 @@ mountain, underdark
 
 > [!embed-monster]- Duergar Kavalrachni
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/duergar-kavalrachni-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -11020,7 +11020,7 @@ Unlike other leaders who might skulk behind their minions, a flind leads the cha
 
 > [!embed-monster]- Flind
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fiend/flind-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -11722,7 +11722,7 @@ A wild gazer (one living separately from a beholder) is territorial, eats bugs a
 
 > [!embed-monster]- Gazer
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/aberration/gazer-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -12086,7 +12086,7 @@ Every other keg of gunpowder within 20 feet of an exploding keg has a 50 percent
 
 > [!embed-monster]- Giff
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/giff-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -12278,7 +12278,7 @@ forest
 
 > [!embed-monster]- Githyanki Gish
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/githyanki-gish-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -13837,7 +13837,7 @@ In the Feywild, many archfey seek to bolster their armies' might with the servic
 
 > [!embed-monster]- Hobgoblin Devastator
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fey/hobgoblin-devastator-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -13929,7 +13929,7 @@ An iron shadow is usually recruited from the ranks of the Feywild's hobgoblin ar
 
 > [!embed-monster]- Hobgoblin Iron Shadow
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fey/hobgoblin-iron-shadow-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -14267,7 +14267,7 @@ For amphibious assaults or underwater conflicts, hydroloths have no equal among 
 
 > [!embed-monster]- Hydroloth
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fiend/hydroloth-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -14386,7 +14386,7 @@ Juiblex's challenge rating is 24 (62,000 XP) when encountered in its lair.
 
 > [!embed-monster]- Juiblex
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/npc/juiblex-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -14571,7 +14571,7 @@ When viewed from the outside, a ki-rin's lair is indistinguishable from a natura
 
 > [!embed-monster]- Ki-rin
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/celestial/ki-rin-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -14826,7 +14826,7 @@ forest, hill, mountain, underdark
 
 > [!embed-monster]- Kobold Inventor
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/kobold-inventor-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -15247,7 +15247,7 @@ Kruthiks abide the presence of Constructs, Elementals, Oozes, and Undead, and th
 
 > [!embed-monster]- Young Kruthik
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/monstrosity/young-kruthik-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -15744,7 +15744,7 @@ Some martial artists adorn themselves with tattoos to honor inspirations or inst
 
 > [!embed-monster]- Martial Arts Adept
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/martial-arts-adept-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -17565,7 +17565,7 @@ Each narzugon claims a [[Rules/Source/bestiary/fiend/nightmare-xmm\|nightmare]] 
 
 > [!embed-monster]- Narzugon
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fiend/narzugon-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -17675,7 +17675,7 @@ Neogi usually dwell in far-flung locations on the Material Plane, as well as in 
 
 > [!embed-monster]- Neogi
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/aberration/neogi-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -17772,7 +17772,7 @@ hill, underdark
 
 > [!embed-monster]- Neogi Hatchling
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/aberration/neogi-hatchling-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -18799,7 +18799,7 @@ grassland, hill, mountain
 
 > [!embed-monster]- Ogre Bolt Launcher
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/giant/ogre-bolt-launcher-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -18860,7 +18860,7 @@ grassland, hill, mountain
 
 > [!embed-monster]- Ogre Chain Brute
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/giant/ogre-chain-brute-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -19855,7 +19855,7 @@ Creatures bitten by rutterkins are exposed to a terrible disease that infects th
 
 > [!embed-monster]- Rutterkin
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fiend/rutterkin-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -20861,7 +20861,7 @@ Infighting and treachery brought skull lords into existence. The first of them a
 
 > [!embed-monster]- Skull Lord
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/undead/skull-lord-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -21164,7 +21164,7 @@ underdark, urban
 
 > [!embed-monster]- Hungry Sorrowsworn
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/monstrosity/hungry-sorrowsworn-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -21669,7 +21669,7 @@ mountain, swamp
 
 > [!embed-monster]- Star Spawn Hulk
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/aberration/star-spawn-hulk-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -21900,7 +21900,7 @@ mountain
 
 > [!embed-monster]- Star Spawn Mangler
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/aberration/star-spawn-mangler-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -22430,7 +22430,7 @@ As part of the ritual used to create a stone cursed, a fist-sized obsidian skull
 
 > [!embed-monster]- Stone Cursed
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/construct/stone-cursed-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -23769,7 +23769,7 @@ Vaprak's troll worshipers believe this god devours the souls of those who have b
 
 > [!embed-monster]- Dire Troll
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/giant/dire-troll-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -24354,7 +24354,7 @@ Vargouilles that roam free on the Material Plane are a dire threat to all creatu
 
 > [!embed-monster]- Vargouille
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fiend/vargouille-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -24442,7 +24442,7 @@ Although they prefer to eat fresh meat, bone, and blood, vegepygmies can absorb 
 
 > [!embed-monster]- Vegepygmy
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/plant/vegepygmy-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -25007,7 +25007,7 @@ arctic, desert, underdark, urban
 
 > [!embed-monster]- Warlock of the Great Old One
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/warlock-of-the-great-old-one-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -25120,7 +25120,7 @@ Warlords urge their troops into the fray with shouted exhortations. You can roll
 
 > [!embed-monster]- Warlord
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/warlord-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -25411,7 +25411,7 @@ urban
 
 > [!embed-monster]- Abjurer Wizard
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/abjurer-wizard-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -25761,7 +25761,7 @@ urban
 
 > [!embed-monster]- Evoker Wizard
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/humanoid/evoker-wizard-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -26122,7 +26122,7 @@ Wood woads are drawn to creatures that have close ties to nature and that protec
 
 > [!embed-monster]- Wood Woad
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/plant/wood-woad-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -26223,7 +26223,7 @@ Raxivort spent centuries watching over the treasury of Graz'zt, and in time, Rax
 
 > [!embed-monster]- Xvart
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/monstrosity/xvart-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -26397,7 +26397,7 @@ A yagnoloth has one arm of human size and one giant-sized arm. During negotiatio
 
 > [!embed-monster]- Yagnoloth
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/fiend/yagnoloth-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -27093,7 +27093,7 @@ Nightmare speakers revel in torturing others, keeping their victims in a constan
 
 > [!embed-monster]- Yuan-ti Nightmare Speaker
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/monstrosity/yuan-ti-nightmare-speaker-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
@@ -27453,7 +27453,7 @@ To replenish her legions, Zariel needs the souls of mortals to create lemures, w
 
 > [!embed-monster]- Zariel
 > 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/rules/source/bestiary/npc/zariel-mpmm/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 <div class="markdown-embed-title">
 
