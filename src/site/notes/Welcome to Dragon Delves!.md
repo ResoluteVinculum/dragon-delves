@@ -5,6 +5,7 @@
 # Wiki Notes
 In an effort to provide a complex and comprehensive DnD experience, I am hosting some notes on my website!
 
+For the dragon delves. 
 ## Quick Links
  - [[Characters/Characters\|Characters]]
  - [[Setting/Setting\|Setting]]
