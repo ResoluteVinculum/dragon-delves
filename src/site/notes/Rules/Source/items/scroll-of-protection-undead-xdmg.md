@@ -1,0 +1,14 @@
+---
+{"dg-publish":true,"permalink":"/rules/source/items/scroll-of-protection-undead-xdmg/","tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/rarity/rare","ttrpg-cli/item/wondrous/scroll"],"dg-note-properties":{"obsidianUIMode":"preview","cssclasses":["json5e-item"],"tags":["ttrpg-cli/compendium/src/5e/xdmg","ttrpg-cli/item/rarity/rare","ttrpg-cli/item/wondrous/scroll"],"aliases":["Scroll of Protection (Undead)"]}}
+---
+
+# Scroll of Protection (Undead)
+*Scroll, rare*  
+![/Rules/Source/items/img/scroll-of-protection.webp\|right wmed](/img/user/Rules/Source/items/img/scroll-of-protection.webp)
+
+
+Using a [[Rules/Source/actions#Magic\|Magic]] action to read the scroll creates a 5-foot [[Rules/Source/variant-rules/emanation-area-of-effect-xphb\|Emanation]] originating from you. For 5 minutes, {{item.detail2}} can't enter or affect anything in the area. However, if you move in such a way that an Undead would be inside the area, the effect ends.
+
+As a [[Rules/Source/actions#Magic\|Magic]] action, a creature within 5 feet of the [[Rules/Source/variant-rules/emanation-area-of-effect-xphb\|Emanation]] can attempt to overcome it, which forces the creature to make a DC 15 Charisma saving throw. On a successful save, the creature ceases to be affected by the [[Rules/Source/variant-rules/emanation-area-of-effect-xphb\|Emanation]].
+
+*Source: Dungeon Master's Guide (2024) p. 302*
