@@ -27,3 +27,9 @@ body {
 .callout > .callout-title > .callout-icon > svg {
     stroke: var(--callout-color, inherit);
 }
+
+
+.et-compose-toolbar .button:not(.clickable-icon) {
+    background-color: unset !important;
+    box-shadow: unset !important;
+}
