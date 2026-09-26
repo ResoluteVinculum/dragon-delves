@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/characters/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/characters/characters/","dg-note-properties":{"tags":null,"attitude":""}}
 ---
 
 # PCs
@@ -28,3 +28,26 @@ Redwood Grove
 ### Chapter 1
 - [[Sunset-is-Nigh\|Sunset-is-Nigh]]
 - [[Marilissa\|Marilissa]]
+
+
+# Everyone
+
+```base
+views:
+  - type: cards
+    name: Characters
+    filters:
+      and:
+        - file.inFolder("Characters")
+        - '!file.inFolder("Characters/PC - Private")'
+        - '!file.ext.contains("base")'
+        - file.hasTag("character")
+        - "!attitude.isEmpty()"
+    groupBy:
+      property: attitude
+      direction: ASC
+    image: note.player-image
+    imageAspectRatio: 1.15
+    imageFit: contain
+
+```

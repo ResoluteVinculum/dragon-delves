@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pc/vespa-littleflight/","tags":["character"],"dg-note-properties":{"aliases":["Vespa"],"tags":["character"],"ac":15,"hp":27,"level":3,"modifier":5}}
+{"dg-publish":true,"permalink":"/characters/pc/vespa-littleflight/","tags":["character"],"dg-note-properties":{"aliases":["Vespa"],"tags":["character"],"ac":15,"hp":27,"level":3,"modifier":5,"player-image":"[[Characters/PC/asset/Vespa Littleflight.png]]","attitude":"player"}}
 ---
 
 # Details

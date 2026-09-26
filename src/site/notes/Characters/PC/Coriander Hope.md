@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pc/coriander-hope/","tags":["character"],"dg-note-properties":{"aliases":["Coriander","Cori"],"tags":["character"]}}
+{"dg-publish":true,"permalink":"/characters/pc/coriander-hope/","tags":["character"],"dg-note-properties":{"aliases":["Coriander","Cori"],"tags":["character"],"player-image":"[[Characters/PC/asset/Corriander Hope.jpeg]]","attitude":"player"}}
 ---
 
 # Details

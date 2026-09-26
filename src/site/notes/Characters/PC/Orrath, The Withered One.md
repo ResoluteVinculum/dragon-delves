@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/characters/pc/orrath-the-withered-one/","tags":["#character"],"dg-note-properties":{"aliases":["Orrath"],"tags":"#character"}}
+{"dg-publish":true,"permalink":"/characters/pc/orrath-the-withered-one/","tags":["#character"],"dg-note-properties":{"aliases":["Orrath"],"tags":["#character"],"player-image":"[[Characters/PC/asset/Orrath, the Withered One.jpeg]]","attitude":"player"}}
 ---
 
 # Details
