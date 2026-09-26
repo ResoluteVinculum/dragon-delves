@@ -1,4 +1,11 @@
-.et-compose-toolbar .button:not(.clickable-icon) {
-    background-color: unset !important;
-    box-shadow: unset !important;
+.et-compose-toolbar
+:is(
+    .et-format-btn,
+    .et-emoji-btn,
+    .et-image-btn,
+    .et-gif-btn
+    .et-submit-btn
+) {
+    background-color: transparent !important;
+    box-shadow: none !important;
 }
