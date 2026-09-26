@@ -1,0 +1,6 @@
+.bases-cards-property[data-property="eleventy"] {
+  display: none !important;
+}
+.bases-cards-property[data-property="templateEngineOverride"] {
+  display: none !important;
+}   
