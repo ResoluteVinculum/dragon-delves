@@ -1,0 +1,4 @@
+.et-compose-toolbar .button:not(.clickable-icon) {
+    background-color: unset !important;
+    box-shadow: unset !important;
+}
