@@ -40,7 +40,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
             </div>
           {% endif %}
         </div>
-      {% include "components/echothread.njk" %}
       {% set slotName = "common.header" %}{% include "components/pluginSlot.njk" %}
       {% set slotName = "notes.header" %}{% include "components/pluginSlot.njk" %}
       {% for imp in dynamics.common.header %}
@@ -89,5 +88,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endif %}
     {% include "components/basesScript.njk" %}
     {% include "components/excalidrawScript.njk" %}
+    {% include "components/echothread.njk" %}
   </body>
 </html>
