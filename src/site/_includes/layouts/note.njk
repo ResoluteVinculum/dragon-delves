@@ -40,6 +40,7 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
             </div>
           {% endif %}
         </div>
+      {% include "echohthread.njk" %}
       {% set slotName = "common.header" %}{% include "components/pluginSlot.njk" %}
       {% set slotName = "notes.header" %}{% include "components/pluginSlot.njk" %}
       {% for imp in dynamics.common.header %}
