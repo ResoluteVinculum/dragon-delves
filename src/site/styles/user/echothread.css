@@ -3,9 +3,9 @@
     .et-format-btn,
     .et-emoji-btn,
     .et-image-btn,
-    .et-gif-btn
+    .et-gif-btn,
     .et-submit-btn
 ) {
-    background-color: transparent !important;
+    background-color: var(--dark-accent) !important;
     box-shadow: none !important;
 }
