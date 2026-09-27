@@ -3,9 +3,13 @@
     .et-format-btn,
     .et-emoji-btn,
     .et-image-btn,
-    .et-gif-btn,
-    .et-submit-btn
+    .et-gif-btn
 ) {
+    background-color: var(--h2-color) !important;
+    box-shadow: none !important;
+}
+
+.et-compose-toolbar .et-submit-btn {
     background-color: var(--dark-accent) !important;
     box-shadow: none !important;
 }
