@@ -31,7 +31,6 @@ Redwood Grove
 
 
 # Everyone
-
 ```base
 views:
   - type: cards
@@ -46,6 +45,9 @@ views:
     groupBy:
       property: attitude
       direction: ASC
+    order:
+      - file.name
+      - aliases
     image: note.player-image
     imageAspectRatio: 1.15
     imageFit: contain
