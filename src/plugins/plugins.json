@@ -58,6 +58,19 @@
         "theme": "preferred_color_scheme",
         "showByDefault": true
       }
+    },
+    "growth-stages": {
+      "repo": "oleeskild/garden-plugin-growth-stages",
+      "installedVersion": "1.0.0",
+      "installedRef": "v1.0.0",
+      "installedAt": "2026-09-27T00:42:50.310Z",
+      "enabled": true,
+      "files": [
+        "src/plugins/growth-stages/README.md",
+        "src/plugins/growth-stages/garden-plugin.json",
+        "src/plugins/growth-stages/styles/badge.scss",
+        "src/plugins/growth-stages/templates/badge.njk"
+      ]
     }
   }
 }
