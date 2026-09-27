@@ -1,0 +1,8 @@
+.obsidian-base-card {
+    position: relative;
+}
+.obsidian-base-card a::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+}
