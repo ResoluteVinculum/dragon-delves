@@ -38,7 +38,6 @@ views:
     filters:
       and:
         - file.inFolder("Characters")
-        - '!file.inFolder("Characters/PC - Private")'
         - '!file.ext.contains("base")'
         - file.hasTag("character")
         - "!attitude.isEmpty()"
